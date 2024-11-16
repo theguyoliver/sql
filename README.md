@@ -1,0 +1,1 @@
+This directory contains the code to all the projects I've worked on using SQL.
